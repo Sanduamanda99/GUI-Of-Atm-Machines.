@@ -4,6 +4,7 @@ Cash Money, a user-friendly, cross-platform graphical application developed usin
 
 Set up: Python Money.py
 Try one of username and password from given below.
+
 Username : Amanda   Password: 1234
 Username : Alison   Password: 5678
 Username : Lydia   Password: 1111
